@@ -1,0 +1,19 @@
+{
+  "name": "newrosayoga",
+  "version": "1.0.0",
+  "description": "rosa yoga blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thezman88/newRosaYoga.git"
+  },
+  "author": "zc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thezman88/newRosaYoga/issues"
+  },
+  "homepage": "https://github.com/thezman88/newRosaYoga#readme"
+}
